@@ -1,2 +1,2 @@
-# PLANT
-a study plant, notebooks for study plant
+# PLAN
+a study plan, notebooks for study plant
